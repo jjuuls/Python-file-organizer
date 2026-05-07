@@ -1,0 +1,21 @@
+2026-05-07 13:45:27: Skipped unsupported file type: desktop.ini
+2026-05-07 13:45:27: Moved file_organizer_test_pack.zip to Archives
+2026-05-07 13:52:40: Skipped unsupported file type: desktop.ini
+2026-05-07 13:57:56: Skipped unsupported file type: desktop.ini
+2026-05-07 13:57:56: Moved test_archive.rar to Archives
+2026-05-07 13:57:56: Moved test_archive.zip to Archives
+2026-05-07 13:57:56: Moved test_audio.mp3 to Audio
+2026-05-07 13:57:56: Moved test_audio.wav to Audio
+2026-05-07 13:57:56: Moved test_document.docx to Documents
+2026-05-07 13:57:56: Moved test_document.pdf to Documents
+2026-05-07 13:57:56: Moved test_document.txt to Documents
+2026-05-07 13:57:56: Moved test_image.gif to Images
+2026-05-07 13:57:56: Moved test_image.jpg to Images
+2026-05-07 13:57:56: Moved test_image.png to Images
+2026-05-07 13:57:56: Moved test_spreadsheet.csv to Spreadsheets
+2026-05-07 13:57:56: Moved test_spreadsheet.xlsx to Spreadsheets
+2026-05-07 13:57:56: Moved test_video.mov to Videos
+2026-05-07 13:57:56: Moved test_video.mp4 to Videos
+2026-05-07 13:57:56: Skipped unsupported file type: unsupported_exe.exe
+2026-05-07 13:57:56: Skipped unsupported file type: unsupported_html.html
+2026-05-07 13:57:56: Skipped unsupported file type: unsupported_python.py
